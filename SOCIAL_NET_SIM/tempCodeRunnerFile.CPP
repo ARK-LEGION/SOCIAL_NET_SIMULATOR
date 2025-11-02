@@ -1,0 +1,1 @@
+transform(content.begin(), content.end(), content.begin(), ::tolower);
